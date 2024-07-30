@@ -1,17 +1,12 @@
-## 26B - IT Consulting
+## Welcome Traveller 👋
 
-We’re software engineers. Our technical expertise and methodologies enhance the competitive edge of our clients.
-We combine experience, training and an ever present curiosity to building software that meets actual requirements.
+We hope you are not lost and actully wound up on this page on purpose due to some interest in our company's work. We’re software developers (most likely just like you). Our technical expertise and methodologies enhance the competitive edge of our clients.
+We combine experience, training and an ever present curiosity to building software that meets actual requirements. 
 
-Our company and manifesto are inspired by Bushidō (武士道, "the way of the warrior"). We aspire to do right by our team members, respect our clients, and leave elegant software systems that give every client a competitive advantage.
+### Open-source
 
-Checkout out some of our open source packages
-- https://github.com/26B/i18n-midoru
-- https://github.com/26B/php-pre-commit
-- https://github.com/26B/laravel-content-pages
-- https://github.com/26B/laravel-account-status
+Most what we have available is our stab at contributing back. Either by open-sourcing some of what helps us or contributing back to the projects we use on a daily basis. Take a look! We hope you find somethign interesting or helpful.
 
-You can reach us at any of the following
-- https://26b.io
-- https://twitter.com/weare26B
-- https://www.linkedin.com/company/26b-it-consulting
+#### Contributions
+
+All open-source lives off of contributions of all kinds (time, money, text, etc.) so if you find something wrong or have a feature request, don't hesitate to reach out or push some code.
