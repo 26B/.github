@@ -5,7 +5,7 @@ We combine experience, training and an ever present curiosity to building softwa
 
 ### Open-source
 
-Most what we have available is our stab at contributing back. Either by open-sourcing some of what helps us or contributing back to the projects we use on a daily basis. Take a look! We hope you find somethign interesting or helpful.
+Most what we have available is our stab at contributing back. Either by open-sourcing some of what helps us or contributing back to the projects we use on a daily basis. Take a look! We hope you find something interesting or helpful.
 
 #### Contributions
 
