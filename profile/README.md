@@ -1,6 +1,6 @@
 ## Welcome Traveller 👋
 
-We hope you are not lost and actully wound up here on purpose due to some interest in our company's work. We’re software developers (most likely just like you). Our technical expertise and methodologies enhance the competitive edge of our clients.
+We hope you are not lost and actually wound up here on purpose due to some interest in our company's work. We’re software developers (most likely just like you). Our technical expertise and methodologies enhance the competitive edge of our clients.
 We combine experience, training and an ever present curiosity to build software that meets actual requirements. 
 
 ### Open-source
